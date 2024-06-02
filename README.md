@@ -17,3 +17,9 @@
 <img alt='css'  align="center" src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
 <img alt='javascript' align="center"  src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidazvdo/davidazvdo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidazvdo/davidazvdo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidazvdo/davidazvdo/output/github-contribution-grid-snake.svg">
+</picture>
