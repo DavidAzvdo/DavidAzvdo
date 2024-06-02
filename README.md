@@ -8,7 +8,6 @@
 </div>
 
 
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=davidazvdo&show_icons=true&theme=radical)
 
 ## Tecnologias que utilizo no dia a dia
 
@@ -17,6 +16,16 @@
 <img alt='css'  align="center" src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
 <img alt='javascript' align="center"  src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
 </div>
+
+### Tools and Frameworks
+<div style= "display: inline-block"> <br>
+<img alt='git' align="center" src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+<img alt='jquerry'  align="center" src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'>
+</div>
+
+## Github Stats
+
+![David GitHub stats](https://github-readme-stats.vercel.app/api?username=davidazvdo&show_icons=true&theme=radical)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidazvdo/davidazvdo/output/github-contribution-grid-snake-dark.svg">
