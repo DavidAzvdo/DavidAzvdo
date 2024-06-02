@@ -1,5 +1,17 @@
 
 ### Ola! Eu sou o David Azevedo ✌️
+- Atualmente estudo Analise e Desenvolvimento de Sistemas.
+- Estou a procura do minha primeira oportunidade na area de tecnologia.
+
+   <details>
+  <summary> Mais sobre mim</summary>
+
+  - Atualmente estou em uma transição de carreira, saindo da área de enfermagem para o campo da tecnologia. Tenho 24 anos e possuo habilidades intermediárias em inglês e básicas em italiano. Estou empolgado para aplicar minha experiência em cuidado e atenção aos detalhes na área de tecnologia, especialmente em desenvolvimento de software e TI.
+  - Além da minha paixão por tecnologia, gosto de aproveitar meu tempo livre assistindo a bons filmes, lendo livros, jogando video games e apreciando arte em geral.
+    
+</details>
+
+
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
   <a href="https://www.instagram.com/david.azvdo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
