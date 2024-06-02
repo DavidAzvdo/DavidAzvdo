@@ -35,9 +35,10 @@
 </div>
 
 ## Github Stats
-
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=davidazvdo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidazvdo&layout=compact)
+<div style= "display: inline-block"> <br>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=davidazvdo&show_icons=true&theme=dracula&include_all_commits=false&count_private=true" alt="Alexandre Coelho GitHub Stats"/>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidazvdo&layout=compact&langs_count=6&theme=dracula" alt="Most used languages by Alexandre Coelho"/>
+</div>
 
 
 <picture align="center">
