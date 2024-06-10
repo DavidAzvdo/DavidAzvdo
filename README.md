@@ -45,3 +45,18 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidazvdo/davidazvdo/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidazvdo/davidazvdo/output/github-contribution-grid-snake.svg">
 </picture>
+
+## Livros que li esse ano 
+
+<div style= "display: inline-block">
+<img alt='14 habitos de Desenvolvedores' align="center" width='134px' src='https://m.media-amazon.com/images/I/71QkHuZFf8L._SY425_.jpg'>
+<img alt='Entedendo Algoritmos' align="center" width='150px' src='https://m.media-amazon.com/images/I/91z0+pX2AkL._AC_UY327_FMwebp_QL65_.jpg'>
+<img alt='Habitos Atomicos' align="center" width='150px' src='https://m.media-amazon.com/images/I/51TL4nFsLuL._SY445_SX342_.jpg'>
+<img alt='Programador Pragmatico' align="center" width='150px' src='https://m.media-amazon.com/images/I/61hewOW+8zL._AC_UY327_FMwebp_QL65_.jpg'>
+   
+</div>
+
+
+
+
+
